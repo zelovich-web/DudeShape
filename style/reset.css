@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*
+font-family: 'DM Sans', sans-serif;
+font-family: 'Montserrat', sans-serif; 
+ */
+
+a, ul {
+    /* text-decoration: none; */
+    list-style-type: none;
+}
+
+
+a, a:link, a:visited  {
+    text-decoration: none;
+}
+
+a:hover  {
+    text-decoration: none;
+}
+
+
+a {
+    color: #161616;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+body {
+    background: #FCFBFF;
+}
+
