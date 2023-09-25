@@ -249,7 +249,6 @@
 .buy-chair {
     background: #FFF;
     box-shadow: 0px 13px 26px 0px rgba(0, 0, 0, 0.07);
-    width: 380px;
     margin-top: 80px;
 
 }
@@ -462,7 +461,7 @@ li {
     font-weight: 700;
     line-height: 26px;
     margin-bottom: 24px;
-    width: 150px
+    width: 150px;
 }
 
 .footer-list {
@@ -505,9 +504,10 @@ li {
     height: 28px;
     background: #FFB624;
     border-radius: 50%;
-    position: absolute;
-    right:425px;
-    margin-top: 11px;
+    right:-214px;
+    top: -38px;
+    position: relative;
+
 }
 
 .svg__btn {
